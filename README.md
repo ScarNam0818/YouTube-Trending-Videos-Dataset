@@ -20,3 +20,8 @@ aimed at extracting actionable recommendations to increase video views.
 
 ## Tech
 Python, pandas, matplotlib, seaborn, Google Colab
+
+## Google Colab
+
+Colab notebook (公開リンク):
+https://colab.research.google.com/drive/1dVtQCh3W5picGqgxeYUyGCK82MrbHU54?usp=sharing
